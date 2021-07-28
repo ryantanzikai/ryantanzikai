@@ -65,7 +65,7 @@ Bachelor of Arts (BA), Economics 2012-16, Merit
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
+[Classification based projects](#classification-based-projects) <https://raw.githubusercontent.com/ryantanzikai/ryantanzikai/main/images/Capture.JPG>
 [Regression based projects](#regression-based-projects) <br>
 
 <!-- Add your details -->
