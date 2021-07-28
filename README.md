@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, A graduate from the top universities in France and Singapore, over 4 years of experience in investment banking M&A, and private equity.
+I am __Ryan Tan__, A graduate from the top universities in France and Singapore, over 4 years of experience in investment banking M&A, and private equity.
 
 Ryan Tan is an Associate with 4 years of experience in investment banking and private equity.
 
