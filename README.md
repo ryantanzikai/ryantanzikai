@@ -39,22 +39,22 @@ Currently, in a competitive and selective Part-time Business Data Analytics cour
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
+##### Investment Corporation of Dubai
 SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+June-2019 to Present: 2 years 1 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Associate of Private Equity Investment
+UNIT: Investment Division
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Working on various investment transactions for Dubai's sovereign wealth fund. Involved in building operational and financial models, financial analysis, due diligence and project management.
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### HEC PARIS
+Master of Science (MSc), International Finance 2016-17, Honors
 
 <!-- EDUCATION Section Ends -->
 
