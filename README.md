@@ -16,7 +16,16 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Kumar Vishwesh__, A graduate from the top universities in France and Singapore, over 4 years of experience in investment banking M&A, and private equity.
+
+Ryan Tan is an Associate with 4 years of experience in investment banking and private equity.
+
+Prior to working for the sovereign wealth fund of Dubai, The Investment Corporation of Dubai (“ICD”), Ryan worked in investment banking at Alcazar Capital, and Mitsubishi UFJ Financial Group (“MUFG”). He also worked at the investment arm as an intern in a mega fund at Antin Infrastructure Partners.
+
+Ryan holds a Master's degree from HEC Paris and a Bachelor’s degree from the National University of Singapore (NUS). 
+
+
+Currently, in a competitive and selective Part-time Business Data Analytics course of 450+ hrs in 6 months (c.20hrs/week) conducted by BCG-Rise's MBA-styled program. Subsidized by the Singapore government, with S$1,500/mth allowance. Skills acquiring: Business cases/presentations using BCG toolkit, Python, SQL, machine-learning algorithms, dashboard design, statistical analysis and regression, Data Visualization with PowerBI, agile/scrum team organisation, Miro.
 
 
 <!-- Add link to the sections -->
