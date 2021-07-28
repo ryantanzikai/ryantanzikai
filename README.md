@@ -56,6 +56,9 @@ Working on various investment transactions for Dubai's sovereign wealth fund. In
 ##### HEC PARIS
 Master of Science (MSc), International Finance 2016-17, Honors
 
+##### National University of Singapore
+Bachelor of Arts (BA), Economics 2012-16, Merit
+
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
